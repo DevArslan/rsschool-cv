@@ -1,15 +1,8 @@
-1. Item 1 Arslan, Gareev
-1. Item 2 Skype: arslan2017, number phone: 89818876957
-1. Item 3 My goal is to become a good specialist in programming. I chose this profession primarily because it is somewhat creative. I want to realize my great potential in your company. I study very quickly, I get along very well with people. Programming is my passion.
-1. Item 4 Python, Vue.js, html, css, js.
-1. Item 5 ```javascript
-var socket = new WebSocket(socket_url)
-socket.onopen = function (event) {
-    console.log('socket opened',event);
-}
-
-socket.onmessage = function (event) {
-    console.log(event);
+1.  Arslan, Gareev
+1.  Skype: arslan2017, number phone: 89818876957
+1.  My goal is to become a good specialist in programming. I chose this profession primarily because it is somewhat creative. I want to realize my great potential in your company. I study very quickly, I get along very well with people. Programming is my passion.
+1.  Python, Vue.js, html, css, js.
+1.   
 
     var data = event.data;
 
@@ -25,9 +18,11 @@ socket.onmessage = function (event) {
     addData(myChart, id, total)
 
 }
-```
-1. Item 6 I've been doing some programming projects at my university for the past six months
 
-1. Item 7 At the moment, I'm studying at a mining university in St. Petersburg
 
-1. Item 8 Able to read simple documentation in English. My level: A1+
+
+1.  I've been doing some programming projects at my university for the past six months
+
+1.  At the moment, I'm studying at a mining university in St. Petersburg
+
+1.  Able to read simple documentation in English. My level: A1+
