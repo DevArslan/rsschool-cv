@@ -2,7 +2,7 @@
 1.  Skype: arslan2017, number phone: 89818876957
 1.  My goal is to become a good specialist in programming. I chose this profession primarily because it is somewhat creative. I want to realize my great potential in your company. I study very quickly, I get along very well with people. Programming is my passion.
 1.  Python, Vue.js, html, css, js.
-1.   
+1.     
 
     var data = event.data;
 
@@ -16,8 +16,6 @@
 
     
     addData(myChart, id, total)
-
-}
 
 
 
