@@ -3,7 +3,7 @@
 1.  My goal is to become a good specialist in programming. I chose this profession primarily because it is somewhat creative. I want to realize my great potential in your company. I study very quickly, I get along very well with people. Programming is my passion.
 1.  Python, Vue.js, html, css, js.
 1.  Example code:   
-
+    ```javascript
     var data = event.data;
 
     data_js = JSON.parse(data);
@@ -16,7 +16,7 @@
 
     
     addData(myChart, id, total)
-
+    ```
 
 
 1.  I've been doing some programming projects at my university for the past six months
