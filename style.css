@@ -1,0 +1,69 @@
+body {
+	font-family: "Roboto", "Arial", sans-serif;
+} 
+
+
+
+main{
+	
+	display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 110vh;
+
+}
+
+.main-block {
+	
+	border:1px solid purple;
+	
+	border-radius: 5px;
+	width: 1024px;
+
+	padding-right: 20px;
+	
+	margin-top:20px;
+	margin-bottom: 20px;
+
+}
+
+.main-block li {
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+.avatar{
+	border:1px solid purple;
+	display: inline-block;
+	border-radius: 5px;
+	padding: 10px;
+	margin-left: 15px;
+	margin-top: 10px;
+
+}
+
+.code-block {
+	background-color: #F6F8FA;
+}
+
+.code-block .value{
+	color:#39892f;
+}
+
+.code-block .attribute{
+	color:#b61039;
+}
+
+.code-block .type-variable{
+	color:#d73a49;
+}
+
+.code-block .function{
+	color:#6f42c1;
+}
+
+.code-block .method{
+	color:#005cc5;
+}
+
+
